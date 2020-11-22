@@ -12,11 +12,11 @@
 
 
 
-<a href="https://api.whatsapp.com/send?phone=6282363763823" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="maestroal" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=6282363763823" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 
 
 
-<a href="https://instagram.com/maestroal.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maestroal" height="30" width="40" /></a>
+<a href="https://instagram.com/maestroal.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 
 
 
