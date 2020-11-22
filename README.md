@@ -40,7 +40,7 @@
 
 
 
-<a href="https://php.net/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/php-original.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://php.net/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 
 </p>
 
