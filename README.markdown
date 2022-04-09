@@ -1,12 +1,18 @@
-<a href="https://twitter.com/Pratikpkb" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/pratik-kumar04" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/pratikkumar04" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PYTHON-0000ff?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PHP-ffae7?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+</div>
 
-## Hi 👋 I am Maestro! 
-I am a Founder & CEO at [Elucidata](https://panelkita.net/) solving problems using tech-stack like Python, PHP, JavaScript, and more. 
+## Hi 👋 I am Maestro Alvardo! 
+I am a Founder & CEO at [PanelKita](https://panelkita.net/), Payment Point Online Banking.
 
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1) 
-- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
-- 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
-- ✍️ [Medium Profile](https://pr2tik1.medium.com/)
+- 👨 I am Boy 
+- Birth 16 yers old
+- Born and living in Indonesia.
+- 🌐 Visit my [porfolio website](https://maestroal.me/) for complete background and contact.
 
 ---
 <p align = "center">
