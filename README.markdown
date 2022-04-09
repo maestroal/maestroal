@@ -1,4 +1,4 @@
-<h2 align="center">Selamat datang di Github saya!</h2>
+<img src="https://bestprofilepictures.com/wp-content/uploads/2021/08/Anime-Girl-profile-Picture-for-Tiktok.jpg" align="center">Selamat datang di Github saya!</img>
 
 ![viewer](https://komarev.com/ghpvc/?username=maestroal&label=Pengunjung&color=green&style=plastic)
 
