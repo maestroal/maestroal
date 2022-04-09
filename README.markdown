@@ -1,4 +1,4 @@
-<img src="https://images.alphacoders.com/923/923358.jpg" width="150" height="150" align="center">Selamat datang di Github saya!</img>
+<img src="https://images.alphacoders.com/923/923358.jpg" width="250" height="150" align="center">Selamat datang di Github saya!</img>
 
 ![viewer](https://komarev.com/ghpvc/?username=maestroal&label=Pengunjung&color=green&style=plastic)
 
