@@ -12,7 +12,7 @@ I am a Founder & CEO at [PanelKita](https://panelkita.net/), Payment Point Onlin
 - 👨 I am Boy 
 - Birth 16 yers old
 - Born and living in Indonesia.
-- 🌐 Visit my [porfolio website](https://maestroal.me/) for complete background and contact.
+- Hobby coding and business also listening lofi girl music.
 
 ---
 <p align = "center">
