@@ -7,7 +7,7 @@
 </div>
 
 ## Hi 👋 I am Maestro Alvardo! 
-I am a Founder & CEO at [PanelKita](https://panelkita.net/), Payment Point Online Banking.
+I am Founder & CEO of [PanelKita](https://panelkita.net/), Payment Point Online Banking.
 
 - 👨 I am Boy 
 - Birth 16 yers old
