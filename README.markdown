@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/52061483?v=4">
+  <img src="https://avatars.githubusercontent.com/u/52061483?v=4" width="50" height="50">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PYTHON-0000ff?style=flat-square&logo=Python&logoColor=white"/>
