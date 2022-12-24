@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maestro Alvardo</h1>
-<h3 align="center">A passionate full stack developer in Indonesia.</h3>
+<h3 align="center">A passionate Full Stack Developer in Indonesia.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maestroal" alt="maestroal" /></a> </p>
 
