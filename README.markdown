@@ -1,4 +1,4 @@
-# 💫 About Me: Maestro Alvardo
+# 💫 About Me: Alvardo
 🌱 I’m currently learning Laravel<br>💬 Ask me about Python and PHP
 
 
@@ -11,7 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=maestroal&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maestroal&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maestroal&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-![](https://visitor-badge.glitch.me/badge?page_id=maestroal.maestroal)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=maestroal&theme=chalk&no-frame=true&no-bg=true&margin-w=4)
@@ -20,6 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=maestroal&icon=5&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
